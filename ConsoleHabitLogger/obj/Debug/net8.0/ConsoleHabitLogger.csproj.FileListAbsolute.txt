@@ -1,0 +1,14 @@
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/bin/Debug/net8.0/ConsoleHabitLogger
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/bin/Debug/net8.0/ConsoleHabitLogger.deps.json
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/bin/Debug/net8.0/ConsoleHabitLogger.runtimeconfig.json
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/bin/Debug/net8.0/ConsoleHabitLogger.dll
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/bin/Debug/net8.0/ConsoleHabitLogger.pdb
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/obj/Debug/net8.0/ConsoleHabitLogger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/obj/Debug/net8.0/ConsoleHabitLogger.AssemblyInfoInputs.cache
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/obj/Debug/net8.0/ConsoleHabitLogger.AssemblyInfo.cs
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/obj/Debug/net8.0/ConsoleHabitLogger.csproj.CoreCompileInputs.cache
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/obj/Debug/net8.0/ConsoleHabitLogger.dll
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/obj/Debug/net8.0/refint/ConsoleHabitLogger.dll
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/obj/Debug/net8.0/ConsoleHabitLogger.pdb
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/obj/Debug/net8.0/ConsoleHabitLogger.genruntimeconfig.cache
+/Users/john/repos/csharp-academy-repos/ConsoleHabitLogger/ConsoleHabitLogger/obj/Debug/net8.0/ref/ConsoleHabitLogger.dll
